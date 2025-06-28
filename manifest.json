@@ -1,0 +1,21 @@
+{
+    "name": "AI Baby",
+    "short_name": "AIBaby",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/social/sentiment_very_satisfied/materialicons/192dp/2x/baseline_sentiment_very_satisfied_black_24dp.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/social/sentiment_very_satisfied/materialicons/512dp/2x/baseline_sentiment_very_satisfied_black_24dp.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
